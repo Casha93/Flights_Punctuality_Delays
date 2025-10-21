@@ -1,0 +1,6 @@
+airport_iata,airport_icao,name,city,country,tz,latitude,longitude
+SVO,UUEE,Sheremetyevo International Airport,Moscow,Russia,Europe/Moscow,55.972599,37.4146
+DME,UUDD,Domodedovo Moscow Airport,Moscow,Russia,Europe/Moscow,55.408798,37.9063
+VKO,UUWW,Vnukovo International Airport,Moscow,Russia,Europe/Moscow,55.591499,37.261501
+LED,ULLI,Pulkovo Airport,Saint Petersburg,Russia,Europe/Moscow,59.800301,30.262501
+AER,URSS,Sochi International Airport,Sochi,Russia,Europe/Moscow,43.449902,39.9566
